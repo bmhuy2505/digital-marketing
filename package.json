@@ -1,7 +1,7 @@
 {
+    "homepage": "https://bmhuy2505.github.io/digital-marketing",
     "name": "my-project",
     "private": true,
-    "homepage": "https://bmhuy2505.github.io/digital-marketing",
     "version": "0.0.0",
     "type": "module",
     "scripts": {
